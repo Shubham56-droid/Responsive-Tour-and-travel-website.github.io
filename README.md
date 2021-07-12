@@ -1,6 +1,6 @@
-# Responsive-Tour-and-travel-website
-It is project of fully responsive tour and  travel website.
-It is a personal project.
-languages used are HTML,CSS,JAVASCRIPT.
-MADE BY - SHUBHAM BAWANKAR
-MAIL ID - shubhambawankar735@gmail.com
+<h1>Responsive  Tour and Travel Website</h1>
+<h3>This website  is  the  frontendend  is made  using  HTML , CSS , and  Javascript</h3>
+<p>It  is  a personal web development projet.</p>
+<br>
+For any  Query pls  contact -
+shubhambawankar735@gmail.com
